@@ -1,3 +1,11 @@
+# HTML TABLES-LAB
+ In this lab i got to create a table 
+ In order to create a table, tags such as <table>,<th>, <td> and <tr>
+ <table> - this tells the browser to interpret this is is a table
+ <tr> -this represents table row -for sm1 to create a table of 4 rows and 4 columns this tag is written 4 times 
+ <th> -this tag is used to write the headings of the the table within the first <tr></tr> tag
+ <td> - this is used to write the data within the <tr> tags
+ 
 # HTML Tables
 
 ## Learning Goals
